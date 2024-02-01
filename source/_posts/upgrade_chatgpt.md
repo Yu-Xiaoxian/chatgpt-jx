@@ -3,7 +3,6 @@ title: 国内ChatGPT 4 账号注册教程：无需验证码，使用支付宝即
 tags:
   - ChatGPT
   - AIGC
-  - 自动驾驶
   - 虚拟信用卡
 categories:
   - ChatGPT

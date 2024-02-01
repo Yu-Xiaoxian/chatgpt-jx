@@ -8,12 +8,12 @@ subtitle: ''
 description: ''
 keywords:
 author: Yu Xiaoxian
-language: zh
+language: zh-Hans
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yu-xiaoxian.github.com/chatgpt-jx
+url: https://chatgpt-jx.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
