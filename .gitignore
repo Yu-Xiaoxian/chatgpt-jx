@@ -7,3 +7,4 @@ package-lock.json
 public/
 .deploy*/
 _multiconfig.yml
+.vercel
