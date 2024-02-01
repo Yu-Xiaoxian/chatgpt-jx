@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: Yu Xiaoxian
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -95,6 +95,7 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins: hexo-generator-sitemap
 ## Themes: https://hexo.io/themes/
 theme: next
 
