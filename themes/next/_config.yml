@@ -40,8 +40,8 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-chatgpt.png
-  medium: /images/favicon-32x32-chatgpt.png
+  small: /images/favicon-16x16-chatgpt.ico
+  medium: /images/favicon-32x32-chatgpt.ico
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
@@ -479,7 +479,7 @@ yandex_site_verification:
 baidu_site_verification:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
-baidu_push: false
+baidu_push: true
 
 
 # ---------------------------------------------------------------
@@ -678,6 +678,7 @@ google_analytics:
 
 # Baidu Analytics
 baidu_analytics: 47c049401c19debd02536343a14acfe7
+# baidu_analytics: 
 
 # Growingio Analytics
 growingio_analytics: # <project_id>

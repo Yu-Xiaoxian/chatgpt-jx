@@ -13,6 +13,17 @@
 
   {% include '_partials/pagination.swig' %}
 
+  {#
+  {%- for post in page.posts.toArray() %}
+    {% if post.featured %}
+      <div class="featured-post-card">
+        <h2><a href="{{ url_for(post.path) }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    {% endif %}
+  {%- endfor %}
+  #}
+
 {% endblock %}
 
 {% block sidebar %}
