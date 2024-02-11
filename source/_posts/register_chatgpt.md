@@ -1,5 +1,5 @@
 ---
-title: 国内开通ChatGPT，无需手机验证码（2024年2月更新）
+title: 国内开通 ChatGPT，无需手机验证码（2024年2月更新）
 tags:
   - ChatGPT
   - AIGC
@@ -19,6 +19,8 @@ updated:: 2024-02-11 10:24:16
 
 只需要你能科学上网，即可注册。
 
+<!-- more -->
+
 如果还不会科学上网，这里推荐这个工具：[科学稳定访问 openai](https://y-too.com/aff.php?aff=4092)（稳定可靠，还可解锁流媒体）
 
 注册完后，或者你已经有账户，想要快速升级 ChatGPT 4，可以看这篇教程：[ChatGPT 2分钟升级 4.0 方法](https://www.chatgpt-jx.com/upgrade_chatgpt/) （简便快捷，一站式服务，保证充值成功）
@@ -27,15 +29,6 @@ updated:: 2024-02-11 10:24:16
 
 中国邮箱都无法注册 ChatGPT，可以申请海外邮箱进行注册，推荐的平台有 Gmail、ProtonMail、Zoho Mail，千万不要使用 Outlook、Hotmail 等微软的邮箱，因为 OpenAI 是微软投资的公司，OpenAI 会获取微软邮箱的注册地址，导致封号或者升级失败。由于 Proton 以安全和隐私保护著称，并且比 Gmail 注册简洁不少，这里推荐使用 Proton。
 
-[一、注册 proton 邮箱](# 一、注册 proton 邮箱)
-- [1.1 访问 proton](## 1.1 访问 proton)
-- [1.2 选择免费套餐](## 1.2 选择免费套餐)
-- [1.3 选择邮箱后缀，设置用户名和密码](## 1.3 选择邮箱后缀，设置用户名和密码)
-- [1.4 通过真人检验，跳过手机验证](## 1.4 通过真人检验，跳过手机验证)
-[二、注册 OpenAI 账号](# 二、注册 OpenAI 账号)
-- [2.1 申请 OpenAI 账号](## 2.1 申请 OpenAI 账号)
-- [2.2 验证邮箱](## 2.2 验证邮箱)
-- [2.3 开通 Chatgpt](## 2.3 开通 Chatgpt)
 
 # 一、注册 proton 邮箱
 
