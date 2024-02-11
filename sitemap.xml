@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chatgpt-jx.com/register_chatgpt/</loc>
+    
+    <lastmod>2024-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chatgpt-jx.com/upgrade_chatgpt/</loc>
     
     <lastmod>2024-02-11</lastmod>
@@ -28,6 +37,13 @@
   
   <url>
     <loc>https://chatgpt-jx.com/tags/AIGC/</loc>
+    <lastmod>2024-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-jx.com/tags/%E5%85%8D%E8%B4%B9%E9%82%AE%E7%AE%B1/</loc>
     <lastmod>2024-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
