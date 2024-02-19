@@ -90,7 +90,9 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 翻译：摄像机跟随一辆白色老式SUV，顶部有黑色行李架，它加速通过一条陡峭的土路，周围是松树，地势陡峭，车轮卷起了尘土，阳光照射在SUV上，它沿着土路飞驰，给场景增添了温暖的光芒。土路在远处轻轻弯曲，看不到其他车辆。路边的树是红杉，绿色的植物点缀其中。汽车从后方的镜头中轻松地跟随着曲线，使其看起来好像在崎岖的地形中轻松驾驶。土路周围是陡峭的山丘和山脉，天空晴朗，偶有薄云飘过。
 
-![openai sora文生视频案例](https://cdn.how2cs.cn/csguide/093801.jpg)
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=1800563030&bvid=BV1xt421a7Gk" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>
 
 ## 2.7 车窗倒影
 
