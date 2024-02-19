@@ -14,8 +14,6 @@ featured: true
 updated:: 2024-02-19 08:56:16
 ---
 
-
-
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
 <iframe src="//player.bilibili.com/player.html?aid=1400548959&bvid=BV1M6421g7vj" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
 </div>
@@ -24,9 +22,12 @@ updated:: 2024-02-19 08:56:16
 
 2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型 Sora:
 
+
 [https://openai.com/sora](https://openai.com/sora)
 
 （PS：目前 openai 官方还未开放 sora 灰度，不过根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://www.chatgpt-jx.com/upgrade_chatgpt/) ，一分钟完成升级
+
+<!-- more -->
 
 Sora能够根据简单的文本描述，生成高达60秒的高质量视频，使得视频创作变得前所未有的简单和高效。
 
@@ -45,7 +46,9 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 翻译：一位时尚的女性走在东京街头，周围是温暖闪亮的霓虹灯和活力四射的城市标识。她穿着一件黑色皮夹克，一条长长的红色连衣裙，搭配黑色靴子，并背着一个黑色手提
 包。她戴着墨镜，涂着红色口红。她步履自信，悠然自得地走着。街道潮湿而反光，呈现出丰富多彩的灯光的镜面效果。许多行人在街上走动。
 
-![openai sora文生视频案例](https://cdn.how2cs.cn/csguide/093357.jpg)
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=1400548959&bvid=BV1M6421g7vj" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>
 
 ## 2.2 丛林猛犸
 
@@ -53,7 +56,9 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 翻译：几只巨大的长毛猛犸象踏过一片雪白的草地，它们长长的毛发在微风中轻轻飘动着，远处覆盖着雪的树木和雄伟的雪山，午后的光线下有些薄云，太阳高悬在远方，营造出温暖的光芒。低角度的摄影视角令人惊叹，捕捉到了这些大型毛茸茸的哺乳动物，画面景深感强烈。
 
-![openai sora文生视频案例](https://cdn.how2cs.cn/csguide/093437.jpg)
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=1500869957&bvid=BV1DS421P7Qz" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>
 
 ## 2.3 淘金热潮
 
