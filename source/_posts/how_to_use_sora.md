@@ -20,18 +20,17 @@ updated:: 2024-02-19 08:56:16
 
 # 1. Sora 是什么？
 
-2024年2月16日，OpenAI 在其官网上面正式宣布推出文本生成视频的大模型 Sora:
-
+2024年2月16日，OpenAI 在其官网上正式发布文本生成视频的大模型 Sora:
 
 [https://openai.com/sora](https://openai.com/sora)
 
-（PS：目前 openai 官方还未开放 sora 灰度，不过根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://www.chatgpt-jx.com/upgrade_chatgpt/) ，一分钟完成升级
+（PS：目前 OpenAI 官方还未开放 Sora 给普通用户使用，不过根据文生图模型 DALL·E 的案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://chatgptzhinan.com/upgrade-chatgpt-to-plus.html) ，一分钟完成升级）
 
 <!-- more -->
 
 Sora能够根据简单的文本描述，生成高达60秒的高质量视频，使得视频创作变得前所未有的简单和高效。
 
-本文将为您提供关于如何使用Sora的最新详细教程。
+本文将提供如何使用Sora的最新教程，持续更新中，有消息会第一时间同步。
 
 # 2. Sora 视频案例
 
@@ -128,7 +127,13 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 # 3. Sora 怎么使用
 
-（PS：目前 openai 官方还未开放 sora 灰度，不过根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://chatgptzhinan.com/upgrade-chatgpt-to-plus.html) ，一分钟完成升级
+OpenAI 官方还未开放 sora 给普通用户使用，目前有两个方案值得尝试：
+
+1. 开通 ChatGPT Plus: 根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://chatgptzhinan.com/upgrade-chatgpt-to-plus.html) ，一分钟完成升级
+
+2. 成为领域专家：目前 OpenAI 会给领域专家 Red Teaming 开放测试接口，用于检测人工智能的安全性，成为领域专家将有机会提前体验 Sora，可惜目前该项目已经停止申请了，各位领域专家可以耐心等待
+
+[![OpenAI-Red-Teaming.jpg](https://s11.ax1x.com/2024/02/21/pFtKQPS.jpg)](https://openai.com/blog/red-teaming-network)
 
 ## 3.1 使用Sora前的准备工作
 
