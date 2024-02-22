@@ -11,7 +11,7 @@ date: 2024-02-18 09:43:16
 
 featured: true
 
-updated:: 2024-02-19 08:56:16
+updated:: 2024-02-22 23:45:16
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
@@ -131,7 +131,7 @@ OpenAI 官方还未开放 sora 给普通用户使用，目前有两个方案值�
 
 1. 开通 ChatGPT Plus: 根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://chatgptzhinan.com/upgrade-chatgpt-to-plus.html) ，一分钟完成升级
 
-2. 成为领域专家：目前 OpenAI 会给领域专家 Red Teaming 开放测试接口，用于检测人工智能的安全性，成为领域专家将有机会提前体验 Sora，可惜目前该项目已经停止申请了，各位领域专家可以耐心等待
+2. 成为领域专家：目前 OpenAI 会给领域专家 Red Teaming 开放测试接口，用于检测人工智能的安全性，成为领域专家将有机会提前体验 Sora，可惜目前该项目已经停止申请了，申请链接在这里[Red Team Apply Form](https://openai.com/form/red-teaming-network)，各位领域专家可以大显神通，毕竟出门在外，身份都是自己给的
 
 [![OpenAI-Red-Teaming.jpg](https://s11.ax1x.com/2024/02/21/pFtKQPS.jpg)](https://openai.com/blog/red-teaming-network)
 
