@@ -1,5 +1,6 @@
 ---
 title: 国内怎样使用 OpenAI Sora，地表最强文生视频工具 (2024年02月最新消息)
+cover: https://s11.ax1x.com/2024/02/23/pFNbROI.png
 tags:
   - OpenAI
   - AIGC
@@ -13,10 +14,6 @@ featured: true
 
 updated:: 2024-02-22 23:45:16
 ---
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=1400548959&bvid=BV1M6421g7vj" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>
 
 # 1. Sora 是什么？
 

@@ -97,7 +97,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 plugins: hexo-generator-sitemap
 ## Themes: https://hexo.io/themes/
-theme: next
+# theme: next
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

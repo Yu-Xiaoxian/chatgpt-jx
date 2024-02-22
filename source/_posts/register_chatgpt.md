@@ -1,5 +1,6 @@
 ---
 title: 国内开通 ChatGPT，无需手机验证码（2024年2月更新）
+cover: https://s11.ax1x.com/2024/02/23/pFNbUyR.png
 tags:
   - ChatGPT
   - AIGC
