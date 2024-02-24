@@ -38,7 +38,7 @@ updated:: 2024-02-24 21:24:16
 
 3）在手机上使用 ChatGPT 应用时，建议设置为全局模式。关于手机多说几句：
 
-- 使用手机浏览器时，可通过 Safari 或 Google Chrome 访问官方网站 [https://chat.openai.com。](https://chat.openai.com./)
+- 使用手机浏览器时，可通过 Safari 或 Google Chrome 访问官方网站 [https://chat.openai.com](https://chat.openai.com./)
 - 对于 iOS 用户，需要一个美国区的账号来下载官方应用。如果需要购买美国区的 ID，可以在淘宝上搜索“北美 id”或“美 id”进行购买。
 - 安卓用户可以通过 Google Play 或其他知名的第三方安卓应用商店下载 ChatGPT 的安装包。安卓用户还可以搜索“华谷套件”，这是一个强大的工具，支持多种机型，并能帮助用户访问 Google Play。
 
@@ -49,6 +49,9 @@ updated:: 2024-02-24 21:24:16
 
 - **问**：我试了很多个节点，但都出现一样的问题，怎么办？
     如果尝试了多个节点但仍遇到问题，请不要放弃。尝试使用网页的隐私模式、VPN或代理软件的全局模式，并确保关闭APP的后台进程后重启尝试。想要用好 ChatGPT的功能，确实需要一点持之以恒的耐心。
+
+- **问**：我可以使用 ChatGPT 3.5，但为什么升级 ChatGPT 4.0 的时候会失败呢？
+     ChatGPT 调用的是第三方收款工具，第三方支付平台有着更严格的风控策略，对网络节点、信用卡信息有更严格的限制。
 
 - **问**：可以帮我解决加速器/网络问题吗？
      对于加速器、VPN或网络问题，我无法提供直接帮助。市面上的VPN服务商众多，质量参差不齐，最好是咨询身边更有经验的人。我能提供的建议是这些问题多半是网络连接导致的，而非账号问题本身（尽管有人可能会出售所谓的“优质”ChatGPT账号）。如果不解决根本的网络连接问题，换用其他账号也会遇到同样的问题，竹篮打水一场空。
@@ -63,11 +66,14 @@ updated:: 2024-02-24 21:24:16
 
 **问题描述**
 
-Please try again later. If you are using a VPN, try turning it off.Check the status page for information on outages
+    Unable to load site
+    
+    Please try again later. If you are using a VPN, try turning it off.Check the status page for information on outages
+    请稍后再试。 如果您正在使用 VPN，请尝试将其关闭。检查状态页面以获取有关中断的信息
 
 **解决方案**
 
-原因是：当前用的科学上网的节点不行。换到其他地区的节点（参考文章开头👆🏻）
+原因是：当前用的科学上网的节点不行，被 ChatGPT 识别出来了。这时候应该节点，而不是按他的提示关闭加速器。
 
 ## 4.2 ChatGPT APP 打开时提示：ChatGPT is not available in your region. 
 
@@ -75,9 +81,8 @@ Please try again later. If you are using a VPN, try turning it off.Check the sta
 
 	ChatGPT is not available in your region. 即 **ChatGPT 不支持你所在的国家**。
 	
-	We’re working to expand ChatGPT’s availability in line with OpenAl’s mission to build Al that  
-	benefits all of humanity. 我们正在努力扩大 ChatGPT的可用性，以符合 OpenAl 的使命，建立 Al  
-	造福全人类。
+	We’re working to expand ChatGPT’s availability in line with OpenAl’s mission to build Al that benefits all of humanity. 
+	我们正在努力扩大 ChatGPT的可用性，以符合 OpenAl 的使命，建立 AI 造福全人类。
 
 **解决方案**
 
@@ -85,5 +90,5 @@ Please try again later. If you are using a VPN, try turning it off.Check the sta
 
 # 5. 加速器指南
 
-1. [Y-Too](https://y-too.com/aff.php?aff=4092) 这个是我一直在用的节点，比较稳定，还可以解锁 Netflix 等流媒体
-2. [WildCard](https://bewildcard.com/i/CHATGPT6)这是专为 ChatGPT 服务的**虚拟信用卡**平台，开卡后会送一个 Windows 端的浏览器，可以直接访问 ChatGPT，速度较慢，但胜在免费不需要每月付费
+1. [Y-Too](https://y-too.com/aff.php?aff=4092) 这个是我一直在用的节点，比较稳定，使用美国的高级节点可以稳定访问 ChatGPT，还可以解锁 Netflix 等流媒体
+2. [WildCard](https://bewildcard.com/i/CHATGPT6)这是专为 ChatGPT 服务的**虚拟信用卡**平台，开卡后会送一个 windows 端的浏览器，可以直接访问 ChatGPT，速度较慢，但胜在免费不需要每月付费
