@@ -21,7 +21,7 @@ updated:: 2024-02-22 23:45:16
 
 [https://openai.com/sora](https://openai.com/sora)
 
-（PS：目前 OpenAI 官方还未开放 Sora 给普通用户使用，不过根据文生图模型 DALL·E 的案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://chatgptzhinan.com/upgrade-chatgpt-to-plus.html) ，一分钟完成升级）
+（PS：目前 OpenAI 官方还未开放 Sora 给普通用户使用，不过根据文生图模型 DALL·E 的案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](/upgrade_chatgpt) ，一分钟完成升级）
 
 <!-- more -->
 
@@ -124,11 +124,11 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 # 3. Sora 怎么使用
 
-OpenAI 官方还未开放 sora 给普通用户使用，目前有两个方案值得尝试：
+OpenAI 官方还未开放 Sora 给普通用户使用，目前有两个方案值得尝试：
 
-1. 开通 ChatGPT Plus: 根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](https://chatgptzhinan.com/upgrade-chatgpt-to-plus.html) ，一分钟完成升级
+1. 开通 ChatGPT Plus: 根据文生图模型 DALL·E 案例，一定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: [升级 ChatGPT Plus 的教程](/upgrade_chatgpt) ，一分钟完成升级
 
-2. 成为领域专家：目前 OpenAI 会给领域专家 Red Teaming 开放测试接口，用于检测人工智能的安全性，成为领域专家将有机会提前体验 Sora，可惜目前该项目已经停止申请了，申请链接在这里[Red Team Apply Form](https://openai.com/form/red-teaming-network)，各位领域专家可以大显神通，毕竟出门在外，身份都是自己给的
+2. 成为领域专家：目前 OpenAI 会给领域专家 Red Teaming 开放测试接口，用于检测人工智能的安全性，成为领域专家将有机会提前体验 Sora，可惜目前该项目已经停止申请了，申请链接在这里 [Red Team Apply Form](https://openai.com/form/red-teaming-network)，各位领域专家可以大显神通，毕竟出门在外，身份都是自己给的
 
 [![OpenAI-Red-Teaming.jpg](https://s11.ax1x.com/2024/02/21/pFtKQPS.jpg)](https://openai.com/blog/red-teaming-network)
 
@@ -196,3 +196,6 @@ Sora模型在生成视频的过程中，注重保持视频质量和逼真度。�
 - 标注模型生成的描述能够更好地指导Sora生成视频。
 - Sora利用稳定扩散（Stable Diffusion）技术将静态噪声转换为连贯图像。
 - Sora模型采用初步的扩散模型生成视频长度，并逐步消除噪声完成视频。
+
+# 参考链接
+[Sora简介](https://chatgptzhinan.com/how-to-use-openai-sora.html)

@@ -29,7 +29,7 @@ ChatGPT4 相比 ChatGPT3.5 增加了GPT Store、上传文件等功能，不仅�
 
 首先我们需要准备好：
 - 科学上网，给没有开通的朋友推荐这个：[科学稳定访问 openai](https://y-too.com/aff.php?aff=4092)（稳定可靠，还可解锁流媒体）
-- ChatGPT 账号，还没有开通的可以点击这里 [国内开通 ChatGPT，无需验证码](https://www.chatgpt-jx.com/register_chatgpt/)
+- ChatGPT 账号，还没有开通的可以点击这里 [国内开通 ChatGPT，无需验证码](/register_chatgpt/)
 
 ## 1.2 常见失败问题
 ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还需要填写美国的住址，还要选免税州，不然要交一笔税费。然而即使我们都准备好，到了支付这一步，大概率还是会遇到以下错误：
@@ -40,7 +40,7 @@ ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还�
 - 我们未能验证您的支付方式。请选择另一支付方式并重试。
 
 
-[![pFu1SmQ.png](https://s11.ax1x.com/2024/01/28/pFu1SmQ.png)](https://imgse.com/i/pFu1SmQ)
+[![支付失败信息展示](https://s11.ax1x.com/2024/01/28/pFu1SmQ.png)](https://imgse.com/i/pFu1SmQ)
 
 ## 1.3 失败原因
 支付失败通常有以下原因：
@@ -58,14 +58,14 @@ ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还�
 - 如果是账号问题，建议重新注册一个账号
 - 如果是信用卡问题，建议开一张虚拟卡，让 OpenAI 无法识别你的来源。
 
-[BeWildCard](https://bewildcard.com/i/CHATGPT6)这个平台，提供了开卡、注册、升级一条龙功能，并提供免费邮箱、免费短信，限时免费上网服务，注册 ChatGPT 需要的所有工具都能在这里找到，帮我们节省了很大的时间和精力。
+[BeWildCard](/htmls/bewildcard001.html) 平台提供了开卡、注册、升级一条龙功能，并提供免费邮箱、免费短信，限时免费上网服务，注册 ChatGPT 需要的所有工具都能在这里找到，帮我们节省了很大的时间和精力。
 
 ## 2.1 开卡
 
-https://bewildcard.com/i/CHATGPT6 
+[https://bewildcard.com/i/CHATGPT6](/htmls/bewildcard001.html) 
 点击上面链接（使用推荐码 CHATGPT6 有 2美元 的优惠），按照指示完成实名认证，2分钟就可以完成注册，获得一个美国身份和虚拟卡，如下图所示。
 
-[![pFnsLge.png](https://s11.ax1x.com/2024/01/27/pFnsLge.png)](https://imgse.com/i/pFnsLge)
+[![信用卡信息](https://s11.ax1x.com/2024/01/27/pFnsLge.png)](https://bewildcard.com/i/CHATGPT6)
 用卡之前记得充值，使用支付宝最小支持 $10 美元的充值，不用了的话可以随时提现。
 
 ## 2.2 升级 ChatGPT4

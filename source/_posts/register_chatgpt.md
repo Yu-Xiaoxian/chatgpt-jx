@@ -24,7 +24,7 @@ updated:: 2024-02-11 10:24:16
 
 如果还不会科学上网，这里推荐这个工具：[科学稳定访问 openai](https://y-too.com/aff.php?aff=4092)（稳定可靠，还可解锁流媒体）
 
-注册完后，或者你已经有账户，想要快速升级 ChatGPT 4，可以看这篇教程：[ChatGPT 2分钟升级 4.0 方法](https://www.chatgpt-jx.com/upgrade_chatgpt/) （简便快捷，一站式服务，保证充值成功）
+注册完后，或者你已经有账户，想要快速升级 ChatGPT 4，可以看这篇教程：[ChatGPT 2分钟升级 4.0 方法](/upgrade_chatgpt/) （简便快捷，一站式服务，保证充值成功）
 
 注册步骤：
 
