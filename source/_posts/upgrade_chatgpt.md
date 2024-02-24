@@ -1,6 +1,6 @@
 ---
 title: 国内升级 ChatGPT 4：无需验证码，无需购币，使用支付宝即可，2分钟开通（2024年2月更新）
-cover: https://s11.ax1x.com/2024/02/23/pFNbnQs.png
+cover: https://s11.ax1x.com/2024/02/24/pFUrFk6.webp
 tags:
   - ChatGPT
   - AIGC
