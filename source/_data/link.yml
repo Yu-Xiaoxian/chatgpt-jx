@@ -1,0 +1,78 @@
+- class_name: ChatGPT 资源库
+  class_desc: 值得分享的网站
+  link_list:
+    - name: ChatGPT中文导航站
+      link: http://chatgptzhinan.com/
+      avatar: https://chatgptzhinan.com/wp-content/uploads/2023/12/favicon.ico
+      descr: ChatGPT 账号、订阅教程、代充
+
+    - name: ChatGPT指南、最新咨询
+      link: https://anyubenyu.com/
+      avatar: https://anyubenyu.oss-cn-shanghai.aliyuncs.com/img202402272321577.jpg
+      descr: ChatGPT 注册、升级教程、代充
+
+    - name: Kaiho小站
+      link: https://kaiho.cc/
+      avatar: https://kaiho.cc/wp-content/uploads/2024/02/logo.png
+
+    - name: GPT教程
+      link: https://gpt-boot.com/
+      avatar: https://duanduanhh.oss-cn-hangzhou.aliyuncs.com/gpt/icon.png
+
+    - name: 扑扑特桔 - ChatGPT 订阅教程
+      descr: ChatGPT4.0升级、OnlyFans订阅指南、AI最新资讯
+      link: https://puputeju.com
+      avatar:  https://puputeju-tc.oss-cn-beijing.aliyuncs.com/pptj.png
+
+    - name: AI大玩家
+      descr: ChatGPT、OnlyFans、Sora等海外服务订阅教程
+      link: https://aibigplayer.github.io/
+      avatar: https://aibigplayer.github.io/img/gpt_logo.png
+
+    - name: OpenAI-ChatGPT订阅教程
+      descr: ChatGPT、OnlyFans、Sora订阅使用教程
+      link: https://actoyouai.com/
+      avatar: https://gpt4-1317472746.cos.ap-shanghai.myqcloud.com/OpenAI/gpt/202402271938538.jpg
+
+    - name: 最新GPT4使用指南
+      link: https://lovechatgpt.netlify.app
+      avatar: https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272300326.png
+
+    - name: ChatGPT中文网
+      descr: ChatGPT 账号、升级、订阅、使用教程
+      link: https://chatgptgogogo.com/
+      avatar: https://chatgptgogogo.com/img/favicon.png
+
+    - name: ChatGPT指导
+      descr: 分享各种ChatGPT知识
+      link: https://www.chatgptzhidao.com/
+      avatar: https://static.ywing.cn/favicon.png
+
+    - name: Ai导航中文网
+      descr: Ai变现 ChatGPT、Sora订阅及使用教程，代充代注册
+      link: https://sorachatgpt4.com/
+      avatar: https://sorachatgpt4.com/img/avatar.png
+
+    - name: ChatGPT甜品铺
+      descr: 分享ChatGPT4.0升级方法、GPT代充、OnlyFans订阅等干货教程😀
+      link: https://whalecoding.com
+      avatar: https://whalecoding.com/img/avatar.jpg
+
+    - name: ChatGPT-Share
+      descr: 这里提供技术分享及一些教程，比如ChatGPT升级，如何充值GPT4，也提供一些云服务器（腾讯云服务器、阿里云服务器）的优惠活动
+      link: https://leedu.ac.cn 
+      avatar: https://leedu.ac.cn/static/favicon-32x32.png
+
+    - name: MagicPr的AI小册
+      descr: Gpt注册、代充、升级，Sora学习，服务器部署，好玩的攻略都在这里。
+      link: https://magicpr.github.io/
+
+    - name: ChatGPT指南
+      link: https://chatgptbom.com
+      avatar: https://muyiio-1300292673.cos.ap-chongqing.myqcloud.com/favicon.ico
+      descr: 专注分享国内ChatGPT、Sora最新资讯/使用方法
+
+    - name: ChatGPT中国
+      link: https://chatgptchina.github.io
+      avatar: https://groot-1253585616.cos.ap-shanghai.myqcloud.com/md/avatar.png
+      descr: 分享人工智能和海外APP的最新资讯和使用教程。
