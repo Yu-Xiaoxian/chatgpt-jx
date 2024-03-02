@@ -28,6 +28,31 @@ html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside
             if theme.aside.enable && page.aside !== false
               include widget/index.pug
 
+        if is_home()
+          if site.data.link
+            - let result = ""
+            each i in site.data.link
+              - let className = i.class_name ? markdown(`## ${i.class_name}`) : ""
+              - let classDesc = i.class_desc ? `<div class="flink-desc">${i.class_desc}</div>` : ""
+
+              - let listResult = ""
+
+              each j in i.link_list
+                -
+                  listResult += `
+                    <div class="flink-list-item">
+                      <a href="${j.link}" title="${j.name}" target="_blank">
+                        <div class="flink-item-icon">
+                          <img class="no-lightbox" src="${j.avatar}" onerror='this.onerror=null;this.src="${url_for(theme.error_img.flink)}"' alt="${j.name}" />
+                        </div>
+                        <div class="flink-item-name">${j.name}</div>
+                        <div class="flink-item-desc" title="${j.descr}">${j.descr}</div>
+                      </a>
+                    </div>`
+                -
+              if listResult
+                #article-container.layout!= `<div class="flink" style="width:100%;padding:15px 40px;color: blueviolet;font-size: 1.2em;"> ${classDesc} <div class="flink-list">${listResult}</div></div>`
+
         - var footerBg = theme.footer_bg
         if (footerBg)
           if (footerBg === true)
