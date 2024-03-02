@@ -1,6 +1,6 @@
 ---
-title: 国内升级 ChatGPT 4：无需验证码，无需购币，使用支付宝即可，2分钟开通（2024年2月更新）
-cover: https://s11.ax1x.com/2024/02/24/pFUrFk6.webp
+title: 国内升级 ChatGPT 4：无需验证码，无需购币，使用支付宝即可，2分钟开通（2024年3月更新）
+cover: https://s11.ax1x.com/2024/03/02/pF0rhCt.webp
 tags:
   - ChatGPT
   - AIGC
@@ -12,7 +12,7 @@ date: 2024-01-23 23:43:16
 
 featured: true
 
-updated:: 2024-02-23 00:24:16
+updated:: 2024-03-01 00:24:16
 ---
 
 ChatGPT4 相比 ChatGPT3.5 增加了GPT Store、上传文件等功能，不仅仅是普通的语言大模型，还可以处理图像、文档等等。然而开通 ChatGPT 4 真的好多坑，不得不吐槽一下 OpenAI 这家公司，怪不得那么多人叫他 CloseAI，数据不开源、算法不开源，就连产品服务都要限制中国大陆使用，他甚至使用了微软邮箱的注册信息，你如果使用微软邮箱开通 ChatGPT，那么恭喜你，你很有可能被封掉。

@@ -1,6 +1,6 @@
 ---
-title: 国内开通 ChatGPT，无需手机验证码（2024年2月更新）
-cover: https://s11.ax1x.com/2024/02/24/pFUrPTx.webp
+title: 国内开通 ChatGPT，无需手机验证码（2024年3月更新）
+cover: https://s11.ax1x.com/2024/03/02/pF0rIv8.webp
 tags:
   - ChatGPT
   - AIGC
@@ -11,7 +11,7 @@ date: 2024-02-11 09:43:16
 
 featured: true
 
-updated:: 2024-02-11 10:24:16
+updated:: 2024-03-01 10:24:16
 ---
 
 之前注册 ChatGPT 除了要有一个海外邮箱，还需要国外的手机号来收验证码，大家一般都是使用虚拟接码平台，比如 [sms-activate.org](https://sms-activate.org/?ref=4616107)
@@ -32,6 +32,8 @@ updated:: 2024-02-11 10:24:16
 
 
 # 一、注册 proton 邮箱
+
+**目前 OpenAI 暂不支持使用 Proton 邮箱注册，请大家选择 GMail 或者其他邮箱**
 
 ## 1.1 访问 proton
 

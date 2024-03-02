@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 无法登陆怎么办？（2024 年 02 月 更新）
-cover: https://s11.ax1x.com/2024/02/24/pFapqfI.webp
+title: ChatGPT 无法登陆怎么办？（2024 年 03 月 更新）
+cover: https://s11.ax1x.com/2024/03/02/pF0rO5n.webp
 tags:
   - ChatGPT
   - AIGC
@@ -12,7 +12,7 @@ date: 2024-02-23 23:43:16
 
 featured: true
 
-updated:: 2024-02-24 21:24:16
+updated:: 2024-03-01 21:24:16
 ---
 
 # 1. 前言

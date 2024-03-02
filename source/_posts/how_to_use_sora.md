@@ -1,5 +1,5 @@
 ---
-title: 国内怎样使用 OpenAI Sora，地表最强文生视频工具 (2024年02月最新消息)
+title: 国内怎样使用 OpenAI Sora，地表最强文生视频工具 (2024年03月最新消息)
 cover: https://s11.ax1x.com/2024/02/24/pFUrSX9.webp
 tags:
   - OpenAI
@@ -12,7 +12,7 @@ date: 2024-02-18 09:43:16
 
 featured: true
 
-updated:: 2024-02-22 23:45:16
+updated:: 2024-03-01 23:45:16
 ---
 
 # 1. Sora 是什么？
