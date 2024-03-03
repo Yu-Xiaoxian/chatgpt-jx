@@ -39,8 +39,7 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 
 > Prompt: A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.
 
-翻译：一位时尚的女性走在东京街头，周围是温暖闪亮的霓虹灯和活力四射的城市标识。她穿着一件黑色皮夹克，一条长长的红色连衣裙，搭配黑色靴子，并背着一个黑色手提
-包。她戴着墨镜，涂着红色口红。她步履自信，悠然自得地走着。街道潮湿而反光，呈现出丰富多彩的灯光的镜面效果。许多行人在街上走动。
+翻译：一位时尚的女性走在东京街头，周围是温暖闪亮的霓虹灯和活力四射的城市标识。她穿着一件黑色皮夹克，一条长长的红色连衣裙，搭配黑色靴子，并背着一个黑色手提包。她戴着墨镜，涂着红色口红。她步履自信，悠然自得地走着。街道潮湿而反光，呈现出丰富多彩的灯光的镜面效果。许多行人在街上走动。
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
 <iframe src="//player.bilibili.com/player.html?aid=1400548959&bvid=BV1M6421g7vj" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
@@ -56,13 +55,16 @@ Sora的应用范围非常广泛，从教育教学、产品演示到内容营销�
 <iframe src="//player.bilibili.com/player.html?aid=1500869957&bvid=BV1DS421P7Qz" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
 </div>
 
-## 2.3 淘金热潮
+## 2.3 小怪兽玩蜡烛
 
-> Prompt: Historical footage of California during the gold rush.
+> Animated scene features a close-up of a short fluffy monster kneeling beside a melting red candle. The art style is 3D and realistic, with a focus on lighting and texture. The mood of the painting is one of wonder and curiosity, as the monster gazes at the flame with wide eyes and open mouth. Its pose and expression convey a sense of innocence and playfulness, as if it is exploring the world around it for the first time. The use of warm colors and dramatic lighting further enhances the cozy atmosphere of the image.
 
-翻译：加利福尼亚淘金热时期的历史影像。
 
-![openai sora文生视频案例](https://pica.zhimg.com/v2-2a45207cad175a764b8d5d59947792c7.jpg?source=382ee89a)
+翻译：动画场景的特写镜头是一个毛茸茸的小怪物跪在一根融化的红色蜡烛旁边。 艺术风格是 3D 和现实的，重点是灯光和纹理。 这幅画的气氛是一种惊奇和好奇，怪物睁大眼睛、张开嘴巴凝视着火焰。 它的姿势和表情传达出一种天真和俏皮的感觉，就好像它第一次探索周围的世界一样。 暖色调和戏剧性灯光的使用进一步增强了图像的舒适氛围。
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=1500869957&bvid=BV1NK42147rv" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
+</div>
 
 ## 2.4 微型景观
 
