@@ -1,6 +1,11 @@
 - class_name: ChatGPT 资源库
-  class_desc: 值得分享的网站
+  class_desc: 友情链接
   link_list:
+    - name: WildCard | 一分钟注册，轻松订阅海外软件服务
+      link: https://bewildcard.com/i/CHATGPT6
+      avatar: https://cdn.api-forwards.com/favicon.ico
+      descr: WildCard提供轻松订阅海外软件服务，无需上传身份证，一分钟注册，支持RMB。支持全球优质服务，GPT账号被封无忧退款。提供免费的远程网络环境和海外手机号，安全可靠的交易体验，实时通知、实时提现，无需上传身份证即可注册。常见问题解答，以及关于注册和充值的通知。
+
     - name: ChatGPT中文导航站
       link: http://chatgptzhinan.com/
       avatar: https://chatgptzhinan.com/wp-content/uploads/2023/12/favicon.ico
