@@ -31,7 +31,7 @@ updated:: 2024-03-01 10:24:16
 中国邮箱都无法注册 ChatGPT，可以申请海外邮箱进行注册，推荐的平台有 Gmail、ProtonMail、Zoho Mail，千万不要使用 Outlook、Hotmail 等微软的邮箱，因为 OpenAI 是微软投资的公司，OpenAI 会获取微软邮箱的注册地址，导致封号或者升级失败。由于 Proton 以安全和隐私保护著称，并且比 Gmail 注册简洁不少，这里推荐使用 Proton。
 
 
-# 一、注册 proton 邮箱
+# 1. 注册 proton 邮箱
 
 **目前 OpenAI 暂不支持使用 Proton 邮箱注册，请大家选择 GMail 或者其他邮箱**
 
@@ -65,7 +65,7 @@ updated:: 2024-03-01 10:24:16
 
 [https://proton.me/](https://proton.me/)
 
-# 二、注册 OpenAI 账号
+# 2. 注册 OpenAI 账号
 
 ## 2.1 申请 OpenAI 账号
 
