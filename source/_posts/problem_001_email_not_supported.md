@@ -46,5 +46,5 @@ updated:: 2024-03-04 01:24:16
 
 为了解决The email you provided is not supported（你提供的电子邮件不被支持）的问题，我们需要：
 
-1. **换用国外邮箱**：如 Gmail、Proton Mail、Zoho Mail；
+1. **换用国外邮箱**：如 Gmail、Proton Mail([教程](/register_chatgpt/))、Zoho Mail；
 2. **换干净的IP**：最好是家庭宽带的IP，不要用VPS机房的，并且在注册邮箱和ChatGPT时全程打开，保证节点不要跳变。

@@ -60,7 +60,8 @@ updated:: 2024-03-01 21:24:16
 
 1. ChatGPT 登录时提示 **Unable to load site** 怎么办？
 2. ChatGPT APP 提示：**ChatGPT is not available in your region.**
-3. 持续更新中
+3. ChatGPT 注册时提示 [**The email you provided is not supported**](/problem_001_email_not_supported)
+4. 持续更新中
 
 ## 4.1 ChatGPT 登录时提示 **Unable to load site** 怎么办？
 
@@ -87,6 +88,23 @@ updated:: 2024-03-01 21:24:16
 **解决方案**
 
 原因是：当前用的科学上网的节点不行。换到其他地区的节点（参考文章开头👆🏻）
+
+## 4.3 ChatGPT 注册时提示 [**The email you provided is not supported**](/problem_001_email_not_supported)
+
+**问题描述**
+
+The email you provided is not supported
+
+翻译过来就是：
+
+你提供的电子邮件不被支持
+
+**解决方案**
+
+原因有两种：
+
+    - 使用了非国外的邮箱，需要更换 GMail，Zoho 等国外邮箱
+    - 使用 IP 不纯净：使用了非纯净的 IP 也可能导致这个问题，需要更换节点
 
 # 5. 加速器指南
 
