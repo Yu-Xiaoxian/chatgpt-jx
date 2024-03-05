@@ -14,8 +14,6 @@ featured: true
 updated:: 2024-03-01 21:24:16
 ---
 
-# ChatGPT 无法登陆怎么办？看这一篇就够了 -ChatGPT精选站 chatgpt-jx.com
-
 ## 1. 前言
 
 要访问 ChatGPT，首先确保您通过其官方网站 [https://chat.openai.com](https://chat.openai.com/) 或官方应用程序进行。这是基本要求。

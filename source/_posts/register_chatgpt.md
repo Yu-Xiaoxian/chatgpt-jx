@@ -14,8 +14,6 @@ featured: true
 updated:: 2024-03-01 10:24:16
 ---
 
-# 国内开通 ChatGPT，无需手机验证码  -ChatGPT精选站 chatgpt-jx.com
-
 之前注册 ChatGPT 除了要有一个海外邮箱，还需要国外的手机号来收验证码，大家一般都是使用虚拟接码平台，比如 [sms-activate.org](https://sms-activate.org/?ref=4616107)
 
 但是现在通通不用！

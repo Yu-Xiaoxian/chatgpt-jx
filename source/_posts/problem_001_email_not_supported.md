@@ -15,8 +15,6 @@ featured: true
 updated:: 2024-03-04 01:24:16
 ---
 
-# 注册 ChatGPT 时报错 The email you provided is not supported  该怎么办？
-
 不少朋友在国内注册ChatGPT时都遇到了 The email you provided is not supported（你提供的电子邮件不被支持），今天就分享下这个问题的原因和解决方法。
 
 ## 1. 电子邮箱不被支持的现象与原因

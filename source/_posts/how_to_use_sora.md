@@ -15,8 +15,6 @@ featured: true
 updated:: 2024-03-01 23:45:16
 ---
 
-# 国内怎样使用 OpenAI Sora，地表最强文生视频工具 -ChatGPT精选站 chatgpt-jx.com
-
 ## 1. Sora 是什么？
 
 2024年2月16日，OpenAI 在其官网上正式发布文本生成视频的大模型 Sora:
