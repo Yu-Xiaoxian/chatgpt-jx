@@ -19,6 +19,7 @@
     - name: Kaiho小站
       link: https://kaiho.cc/
       avatar: https://kaiho.cc/wp-content/uploads/2024/02/logo.png
+      descr: Kaiho小站
 
     - name: GPT教程
       link: https://gpt-boot.com/
@@ -43,6 +44,7 @@
     - name: 最新GPT4使用指南
       link: https://lovechatgpt.netlify.app
       avatar: https://gptblog.oss-cn-hangzhou.aliyuncs.com/image/202402272300326.png
+      descr: 最新GPT4使用指南
 
     - name: ChatGPT中文网
       descr: ChatGPT 账号、升级、订阅、使用教程
