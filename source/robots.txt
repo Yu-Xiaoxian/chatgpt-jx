@@ -1,0 +1,7 @@
+# robots.txt 
+User-agent: *
+
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: http://chatgpt-jx.com/sitemap.xml
