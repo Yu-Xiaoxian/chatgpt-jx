@@ -14,6 +14,8 @@ featured: true
 updated:: 2024-03-01 10:24:16
 ---
 
+# 国内开通 ChatGPT，无需手机验证码  -ChatGPT精选站 chatgpt-jx.com
+
 之前注册 ChatGPT 除了要有一个海外邮箱，还需要国外的手机号来收验证码，大家一般都是使用虚拟接码平台，比如 [sms-activate.org](https://sms-activate.org/?ref=4616107)
 
 但是现在通通不用！
@@ -31,11 +33,11 @@ updated:: 2024-03-01 10:24:16
 中国邮箱都无法注册 ChatGPT，可以申请海外邮箱进行注册，推荐的平台有 Gmail、ProtonMail、Zoho Mail，千万不要使用 Outlook、Hotmail 等微软的邮箱，因为 OpenAI 是微软投资的公司，OpenAI 会获取微软邮箱的注册地址，导致封号或者升级失败。由于 Proton 以安全和隐私保护著称，并且比 Gmail 注册简洁不少，这里推荐使用 Proton。
 
 
-# 1. 注册 proton 邮箱
+## 1. 注册 proton 邮箱
 
 **目前 OpenAI 暂不支持使用 Proton 邮箱注册，请大家选择 GMail 或者其他邮箱**
 
-## 1.1 访问 proton
+### 1.1 访问 proton
 
 [https://proton.me/](https://proton.me/)
 
@@ -43,17 +45,17 @@ updated:: 2024-03-01 10:24:16
 
 [![Proton网站首页](https://s11.ax1x.com/2024/02/11/pF3brLD.jpg)](https://imgse.com/i/pF3brLD)
 
-## 1.2 选择免费套餐
+### 1.2 选择免费套餐
 
 [![Proton套餐](https://s11.ax1x.com/2024/02/11/pF3bIOS.jpg)](https://imgse.com/i/pF3bIOS)
 
-## 1.3 选择邮箱后缀，设置用户名和密码
+### 1.3 选择邮箱后缀，设置用户名和密码
 
 这里推荐选择 proton.me
 
 [![选择邮箱后缀](https://s11.ax1x.com/2024/02/11/pF3bqFs.jpg)](https://imgse.com/i/pF3bqFs)
 
-## 1.4 通过真人检验，跳过手机验证
+### 1.4 填写验证码，通过真人检验，跳过手机验证
 
 依次拖动验证码，然后设置昵称，跳过手机验证就可以。
 
@@ -65,9 +67,9 @@ updated:: 2024-03-01 10:24:16
 
 [https://proton.me/](https://proton.me/)
 
-# 2. 注册 OpenAI 账号
+## 2. 注册 OpenAI 账号
 
-## 2.1 申请 OpenAI 账号
+### 2.1 申请 OpenAI 账号
 
 首先打开 [OpenAI](https://chat.openai.com/) 的账户注册页面，点击右侧 “Sing Up”
 
@@ -77,7 +79,7 @@ updated:: 2024-03-01 10:24:16
 
 [![pF3bzOU.png](https://s11.ax1x.com/2024/02/11/pF3bzOU.png)](https://imgse.com/i/pF3bzOU)
 
-## 2.2 验证邮箱
+### 2.2 验证邮箱
 
 去 Proton.me 收件箱里点击「Verify email address」
 
@@ -85,7 +87,7 @@ updated:: 2024-03-01 10:24:16
 
 然后提供你的名和姓及生日，并点击继续
 
-## 2.3 开通 Chatgpt
+### 2.3 开通 Chatgpt
 
 Openai 的用户体系分成两大类：ChatGPT 用户和API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的：
 
