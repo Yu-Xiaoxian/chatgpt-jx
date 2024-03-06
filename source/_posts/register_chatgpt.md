@@ -33,7 +33,7 @@ updated:: 2024-03-01 10:24:16
 
 ## 1. 注册 proton 邮箱
 
-**注意，注册邮箱以及开通ChatGPT时，一定要确保在外网环境，否侧会出现[邮箱不支持](/problem_001_email_not_supported/index.html)的报错。**
+**注意，注册邮箱以及开通ChatGPT时，一定要确保在外网环境，否侧会出现[邮箱不支持](/problem_001_email_not_supported/)的报错。**
 
 ### 1.1 访问 proton
 
@@ -98,7 +98,7 @@ ChatGPT 用户获取 GPT-4 的使用权限，是通过购买 GPT Plus 会员，�
 
 购买教程在这里:
 
-[ChatGPT 2分钟升级 4.0 方法](https://chatgpt-jx.com/upgrade_chatgpt/index.html)
+[ChatGPT 2分钟升级 4.0 方法](https://chatgpt-jx.com/upgrade_chatgpt/)
 
 API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户，升级付费帐户的教程在这里。
 
