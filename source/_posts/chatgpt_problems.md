@@ -7,11 +7,12 @@ tags:
   - OpenAI
 categories:
   - ChatGPT
+description: ChatGPT 登陆问题合集：梯子问题，账号问题，Unable to load site, ChatGPT is not available in your region, The email you provided is not supported 等问题，持续更新中。
+
 date: 2024-02-23 23:43:16
+updated: 2024-03-01 21:24:16
 
 featured: true
-
-updated:: 2024-03-01 21:24:16
 ---
 
 ## 1. 前言

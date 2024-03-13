@@ -7,11 +7,10 @@ tags:
   - 免费邮箱
 categories:
   - ChatGPT
+description: 中国邮箱都无法注册 ChatGPT，可以申请海外邮箱进行注册，推荐的平台有 Gmail、ProtonMail、Zoho Mail. 打开全文查看详细步骤。
 date: 2024-02-11 09:43:16
-
+updated: 2024-03-01 10:24:16
 featured: true
-
-updated:: 2024-03-01 10:24:16
 ---
 
 之前注册 ChatGPT 除了要有一个海外邮箱，还需要国外的手机号来收验证码，大家一般都是使用虚拟接码平台，比如 [sms-activate.org](https://sms-activate.org/?ref=4616107)

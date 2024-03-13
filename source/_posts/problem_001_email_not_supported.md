@@ -7,12 +7,10 @@ tags:
   - OpenAI
 categories:
   - ChatGPT
+description: 不少朋友在国内注册ChatGPT时都遇到了 The email you provided is not supported（你提供的电子邮件不被支持），今天就分享下这个问题的原因和解决方法。
 date: 2024-03-03 23:43:16
-
-
+updated: 2024-03-04 01:24:16
 featured: true
-
-updated:: 2024-03-04 01:24:16
 ---
 
 不少朋友在国内注册ChatGPT时都遇到了 The email you provided is not supported（你提供的电子邮件不被支持），今天就分享下这个问题的原因和解决方法。
