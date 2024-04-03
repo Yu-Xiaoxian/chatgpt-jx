@@ -1,5 +1,5 @@
 ---
-title: 国内怎样使用 OpenAI Sora，地表最强文生视频工具 (2024年03月最新消息)
+title: 国内怎样使用 OpenAI Sora，地表最强文生视频工具 (2024年04月最新消息)
 cover: https://s11.ax1x.com/2024/02/24/pFUrSX9.webp
 tags:
   - OpenAI
@@ -10,7 +10,7 @@ categories:
   - Sora
 description: Sora 能够根据简单的文本描述，生成高达60秒的高质量视频，使得视频创作变得前所未有的简单和高效。目前还没有开放给普通用户使用，预计会跟 ChatGPT 5 一起推出，本文将及时更新。
 date: 2024-02-18 09:43:16
-updated: 2024-03-01 23:45:16
+updated: 2024-04-01 23:45:16
 featured: true
 ---
 
