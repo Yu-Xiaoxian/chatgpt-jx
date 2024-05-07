@@ -1,5 +1,5 @@
 ---
-title: 国内开通 ChatGPT，无需手机验证码（2024年4月更新）
+title: 国内开通 ChatGPT，无需手机验证码（2024年5月更新）
 cover: https://s21.ax1x.com/2024/04/03/pFHBv3d.webp
 tags:
   - ChatGPT
@@ -9,7 +9,7 @@ categories:
   - ChatGPT
 description: 中国邮箱都无法注册 ChatGPT，可以申请海外邮箱进行注册，推荐的平台有 Gmail、ProtonMail、Zoho Mail. 打开全文查看详细步骤。
 date: 2024-02-11 09:43:16
-updated: 2024-04-01 10:24:16
+updated: 2024-05-01 10:24:16
 featured: true
 ---
 
