@@ -69,6 +69,7 @@
     - name: MagicPr的AI小册
       descr: Gpt注册、代充、升级，Sora学习，服务器部署，好玩的攻略都在这里。
       link: https://magicpr.github.io/
+      avatar: https://leedu.ac.cn/static/favicon-32x32.png
 
     - name: ChatGPT指南
       link: https://chatgptbom.com
