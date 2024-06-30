@@ -1,6 +1,6 @@
 ---
 title: 注册 ChatGPT 时报错 The email you provided is not supported (你提供的电子邮件不被支持) 该怎么办？
-cover: https://s21.ax1x.com/2024/06/06/pkYFzUP.webp
+cover: https://s21.ax1x.com/2024/07/01/pkc6SK0.webp
 tags:
   - ChatGPT
   - AIGC
