@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chatgpt-jx.com/how_to_use_sora/</loc>
-    
-    <lastmod>2024-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-jx.com/chatgpt_problems/</loc>
-    
-    <lastmod>2024-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chatgpt-jx.com/register_chatgpt/</loc>
-    
-    <lastmod>2024-07-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://chatgpt-jx.com/categories/</loc>
     
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +13,7 @@
   <url>
     <loc>https://chatgpt-jx.com/link/</loc>
     
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +22,7 @@
   <url>
     <loc>https://chatgpt-jx.com/tags/</loc>
     
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +31,34 @@
   <url>
     <loc>https://chatgpt-jx.com/upgrade_chatgpt/</loc>
     
-    <lastmod>2024-06-03</lastmod>
+    <lastmod>2024-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-jx.com/how_to_use_sora/</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-jx.com/chatgpt_problems/</loc>
+    
+    <lastmod>2024-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-jx.com/register_chatgpt/</loc>
+    
+    <lastmod>2024-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
   <url>
     <loc>https://chatgpt-jx.com/problem_001_email_not_supported/</loc>
     
-    <lastmod>2024-03-04</lastmod>
+    <lastmod>2024-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://chatgpt-jx.com/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,49 +93,49 @@
   
   <url>
     <loc>https://chatgpt-jx.com/tags/ChatGPT/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/tags/AIGC/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/tags/OpenAI/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/tags/Sora/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/tags/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/tags/%E5%85%8D%E8%B4%B9%E9%82%AE%E7%AE%B1/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -144,14 +144,14 @@
   
   <url>
     <loc>https://chatgpt-jx.com/categories/ChatGPT/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chatgpt-jx.com/categories/Sora/</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2024-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
