@@ -1,6 +1,6 @@
 ---
-title: 国内升级 ChatGPT 4：支付失败如何解决？（2024年07月更新）
-cover: https://s21.ax1x.com/2024/07/01/pkc6PVU.webp
+title: 国内升级 ChatGPT 4：支付失败如何解决？（2024年08月更新）
+cover: https://s21.ax1x.com/2024/08/04/pkjL0M9.webp
 tags:
   - ChatGPT
   - AIGC
@@ -10,7 +10,7 @@ categories:
 description: 如果你在 ChatGPT4 支付时遇到了这个问题：“我们未能验证您的支付方式。请选择另一支付方式并重试”，那么这篇文章将给你最方便快捷的解决方案。
 
 date: 2024-01-23 23:43:16
-updated: 2024-06-03 00:24:16
+updated: 2024-08-02 00:24:16
 featured: true
 ---
 
