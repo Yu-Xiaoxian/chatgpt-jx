@@ -108,7 +108,7 @@ The email you provided is not supported
 
 ## 5. 加速器指南
 
-1. [Y-Too](https://y-too.com/aff.php?aff=4092) 这个是我一直在用的节点，选的是月付 Basic 套餐，比较稳定，使用美国的高级节点可以稳定访问 ChatGPT，还可以解锁 Netflix 等流媒体
+1. [Y-Too](https://y-too.com/) 这是一个机场服务，有月付、年付多种套餐，使用美国的高级节点可以稳定访问 ChatGPT，还可以解锁 Netflix 等流媒体服务
 
   **注意**：需要提醒的是，所有机场（我说的是所有）都存在跑路的风险，也可能因为使用人数激增导致服务质量下降，所以大家不要为了便宜而付年费，一定要把机场跑路的风险考虑进去
 

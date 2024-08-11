@@ -27,7 +27,7 @@ ChatGPT4 相比 ChatGPT3.5 增加了GPT Store、上传文件等功能，不仅�
 ### 1.1 前期准备
 
 首先我们需要准备好：
-- 科学上网，给没有开通的朋友推荐这个：[科学稳定访问 openai](https://y-too.com/aff.php?aff=4092)（稳定可靠，还可解锁流媒体）
+- 科学上网，有梯子但还是无法访问的朋友可以看这篇文章 [ChatGPT 问题合集](/chatgpt_problems)
 - ChatGPT 账号，还没有开通的可以点击这里 [国内开通 ChatGPT，无需验证码](/register_chatgpt/)
 
 ### 1.2 常见失败问题
