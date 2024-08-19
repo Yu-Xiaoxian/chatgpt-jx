@@ -22,11 +22,11 @@ jobs:
         uses: amondnet/vercel-action@v25
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          github-token: ${{ secrets.ACCESS_TOKEN }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           alias-domains: chatgpt-jx.com
           vercel-args: '--prod' # 根据需要添加其他Vercel CLI参数
+          scope: TEAM_SLUG
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4
