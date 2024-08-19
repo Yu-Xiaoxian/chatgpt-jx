@@ -26,7 +26,7 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           alias-domains: chatgpt-jx.com
           vercel-args: '--prod' # 根据需要添加其他Vercel CLI参数
-          scope: TEAM_SLUG
+          scope: yuxiaoxian
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4
