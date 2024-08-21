@@ -17,7 +17,7 @@ featured: false
 
 最近，Fomepay “跑路” 的消息在圈子内广泛传播。许多用户表示，充值款项无法提现，客服不予回应，甚至微信公众号也下线了客服链接。
 
-[![Fomepay 跑路](https://s21.ax1x.com/2024/08/20/pAP5ies.jpg)]
+![Fomepay 跑路](https://s21.ax1x.com/2024/08/20/pAP5ies.jpg)
 
 Fomepay的突然跑路令人措手不及，很多人依赖 Fomepay 开通 ChatGPT 和 Claude，这下给大家添了不少的麻烦。
 
@@ -29,7 +29,7 @@ Fomepay的突然跑路令人措手不及，很多人依赖 Fomepay 开通 ChatGP
 
 **Dupay**：以初级的高级卡为例——开卡费用20刀，月费0.5刀，额度是5w/月，手续费是1.6%，但充值比较麻烦，可惜的是，目前似乎不能直接支付ChatGPT了
 
-**[WildCard](https://wildcard.com.cn/i/CHATGPT6)**：2年费用11.99刀，没有月费，初始额度是100/月，手续费是3.5%。体验下来目前看比较稳定，可以比较顺畅支付各类海外订阅服务。
+[**WildCard**](/htmls/bewildcard001.html)：2年费用11.99刀，没有月费，初始额度是100/月，手续费是3.5%。体验下来目前看比较稳定，可以比较顺畅支付各类海外订阅服务。
 
 - 具体使用可以参考这篇文章：[ChatGPT 支付失败怎么办](/upgrade_chatgpt)
 
