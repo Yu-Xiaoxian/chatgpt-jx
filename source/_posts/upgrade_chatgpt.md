@@ -61,9 +61,9 @@ ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还�
 ### 2.1 开卡
 
 [https://bewildcard.com/i/CHATGPT6](/htmls/bewildcard001.html) 
-点击上面链接（使用推荐码 CHATGPT6 有 2美元 的优惠），按照指示完成实名认证，2分钟就可以完成注册，获得一个美国身份和虚拟卡，如下图所示。
+点击上面链接（使用推荐码 CHATGPT6 有 1美元 的优惠），按照指示完成实名认证，2分钟就可以完成注册，获得一个美国身份和虚拟卡，如下图所示。
 
-[![信用卡信息](https://s11.ax1x.com/2024/01/27/pFnsLge.png)](https://bewildcard.com/i/CHATGPT6)
+[![信用卡信息](https://s11.ax1x.com/2024/01/27/pFnsLge.png)](/htmls/bewildcard001.html)
 用卡之前记得充值，使用支付宝最小支持 $10 美元的充值，不用了的话可以随时提现。
 
 ### 2.2 升级 ChatGPT4
