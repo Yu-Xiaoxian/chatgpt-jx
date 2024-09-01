@@ -1,5 +1,5 @@
 ---
-title: ChatGPT-4o-mini 是什么？（2024年08月更新）
+title: ChatGPT-4o-mini 是什么？（2024年09月更新）
 tags:
   - ChatGPT
   - AIGC
