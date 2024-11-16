@@ -1,6 +1,7 @@
-https://chatgpt-jx.com/categories/
+https://chatgpt-jx.com/claude_regitster/
 https://chatgpt-jx.com/link/
 https://chatgpt-jx.com/tags/
+https://chatgpt-jx.com/categories/
 https://chatgpt-jx.com/fomepay_runaway/
 https://chatgpt-jx.com/chatgpt_4o_mini/
 https://chatgpt-jx.com/upgrade_chatgpt/
@@ -15,8 +16,10 @@ https://chatgpt-jx.com/tags/AIGC/
 https://chatgpt-jx.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/
 https://chatgpt-jx.com/tags/ChatGPT-4o-mini/
 https://chatgpt-jx.com/tags/OpenAI/
+https://chatgpt-jx.com/tags/Claude/
 https://chatgpt-jx.com/tags/Sora/
 https://chatgpt-jx.com/tags/%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91/
 https://chatgpt-jx.com/tags/%E5%85%8D%E8%B4%B9%E9%82%AE%E7%AE%B1/
 https://chatgpt-jx.com/categories/ChatGPT/
+https://chatgpt-jx.com/categories/Claude/
 https://chatgpt-jx.com/categories/Sora/

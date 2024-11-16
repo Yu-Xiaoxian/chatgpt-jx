@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chatgpt-jx.com/categories/</loc>
+    <loc>https://chatgpt-jx.com/claude_regitster/</loc>
     
     <lastmod>2024-11-16</lastmod>
     
@@ -21,6 +21,15 @@
   
   <url>
     <loc>https://chatgpt-jx.com/tags/</loc>
+    
+    <lastmod>2024-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-jx.com/categories/</loc>
     
     <lastmod>2024-11-16</lastmod>
     
@@ -145,6 +154,13 @@
   </url>
   
   <url>
+    <loc>https://chatgpt-jx.com/tags/Claude/</loc>
+    <lastmod>2024-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://chatgpt-jx.com/tags/Sora/</loc>
     <lastmod>2024-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,6 +185,13 @@
   
   <url>
     <loc>https://chatgpt-jx.com/categories/ChatGPT/</loc>
+    <lastmod>2024-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chatgpt-jx.com/categories/Claude/</loc>
     <lastmod>2024-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
