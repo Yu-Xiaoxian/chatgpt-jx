@@ -1,5 +1,5 @@
 ---
-title: 国内开通 ChatGPT，无需手机验证码（2024年10月更新）
+title: 国内开通 ChatGPT，无需手机验证码（2024年11月更新）
 cover: https://s21.ax1x.com/2024/10/07/pAGF0oQ.webp
 tags:
   - ChatGPT

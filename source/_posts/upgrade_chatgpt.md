@@ -1,5 +1,5 @@
 ---
-title: 国内升级 ChatGPT 4：支付失败如何解决？（2024年10月更新）
+title: 国内升级 ChatGPT 4：支付失败如何解决？（2024年11月更新）
 cover: https://s21.ax1x.com/2024/10/07/pAGFdeS.webp
 tags:
   - ChatGPT
