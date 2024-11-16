@@ -1,5 +1,5 @@
 ---
-title: ChatGPT-4o-mini 是什么？（2024年09月更新）
+title: ChatGPT-4o-mini 是什么？（2024年11月更新）
 tags:
   - ChatGPT
   - AIGC
@@ -10,7 +10,7 @@ categories:
 description: 7月18日，OpenAI 正式推出了 GPT-4o mini，ChatGPT 的免费用户、Plus 用户和 Team 用户将能够无限量使用 GPT-4o mini。
 
 date: 2024-8-17 14:57:10
-updated: 2024-8-17 14:57:10
+updated: 2024-11-16 14:57:10
 featured: true
 ---
 
