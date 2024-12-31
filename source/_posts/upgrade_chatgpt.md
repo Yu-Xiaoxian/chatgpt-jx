@@ -1,6 +1,6 @@
 ---
-title: 国内升级 ChatGPT 4：支付失败如何解决？（2024年11月更新）
-cover: https://s21.ax1x.com/2024/10/07/pAGFdeS.webp
+title: 国内升级 ChatGPT 4：支付失败如何解决？（2025年01月更新）
+cover: https://s21.ax1x.com/2024/12/31/pAz7OPJ.webp
 tags:
   - ChatGPT
   - AIGC
@@ -10,7 +10,7 @@ categories:
 description: 如果你在 ChatGPT4 支付时遇到了这个问题：“我们未能验证您的支付方式。请选择另一支付方式并重试”，那么这篇文章将给你最方便快捷的解决方案。
 
 date: 2024-01-23 23:43:16
-updated: 2024-08-02 00:24:16
+updated: 2025-01-01 00:17:16
 featured: true
 ---
 
@@ -77,11 +77,11 @@ ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还�
 
 不要慌张，点击平台首页的一键升级 ChatGPT 按钮，页面里会提示怎样操作
 
-[![pFnsq3D.png](https://s11.ax1x.com/2024/01/27/pFnsq3D.png)](https://imgse.com/i/pFnsq3D)
+[![一键升级ChatGPT](https://s21.ax1x.com/2024/12/31/pAzHQIg.webp "会员专属-一键升级ChatGPT Plus")](/htmls/bewildcard001.html)
 
 然后按照指示获取 ChatGPT 4.0 升级的支付链接，把付款页面的链接粘贴到最右边的输入框，等待约 1~2 min 就可以充值完成。
 
-[![pFnsvDA.png](https://s11.ax1x.com/2024/01/27/pFnsvDA.png)](https://imgse.com/i/pFnsvDA)
+[![一键升级ChatGPT](https://s21.ax1x.com/2024/12/31/pAzHNLV.webp)](/htmls/bewildcard001.html)
 
 ### 2.3 续费或者停止订阅
 
@@ -93,7 +93,7 @@ ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还�
 - 点击弹出页面中的 Manage my subscription
 - 在跳转的页面中，取消订阅 Cancle
 
-[![pFnsxHI.png](https://s11.ax1x.com/2024/01/27/pFnsxHI.png)](https://imgse.com/i/pFnsxHI)
+[![取消订阅ChatGPT](https://s11.ax1x.com/2024/01/27/pFnsxHI.png)](/htmls/bewildcard001.html)
 
 希望大家使用愉快！
 

@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 无法登陆怎么办？看这一篇就够了（2024年11月更新）
-cover: https://s21.ax1x.com/2024/10/07/pAGFwdg.webp
+title: ChatGPT 无法登陆怎么办？看这一篇就够了（2025年01月更新）
+cover: https://s21.ax1x.com/2024/12/31/pAz7q54.webp
 tags:
   - ChatGPT
   - AIGC
@@ -10,7 +10,7 @@ categories:
 description: ChatGPT 登陆问题合集：梯子问题，账号问题，Unable to load site, ChatGPT is not available in your region, The email you provided is not supported 等问题，持续更新中。
 
 date: 2024-02-23 23:43:16
-updated: 2024-08-01 21:24:16
+updated: 2025-01-01 00:04:16
 
 featured: true
 ---
