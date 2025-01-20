@@ -18,7 +18,12 @@ featured: true
 
 2024年2月16日，OpenAI 在其官网上正式发布文本生成视频的大模型 Sora:
 
-2024年12月10日，Sora 正式开放，可访问 [Sora](https://sora.com)
+2024年12月10日，Sora 正式开放，可访问 [Sora](https://sora.com)，有两种套餐
+
+- 套餐一：每月 $20，视频有水印
+- 套餐二：每月 $200，可下载无水印视频
+
+[![OpenAI Sora Plan](https://s21.ax1x.com/2024/12/31/pAzHgL6.webp "OpenAI Sora 收费明细")](/htmls/bewildcard001.html)
 
 [https://openai.com/sora](https://openai.com/sora)
 
