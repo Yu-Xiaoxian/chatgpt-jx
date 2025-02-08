@@ -1,6 +1,6 @@
 ---
-title: 国内升级 ChatGPT 4：支付失败如何解决？（2025年01月更新）
-cover: https://s21.ax1x.com/2024/12/31/pAz7OPJ.webp
+title: 国内升级 ChatGPT 4：支付失败如何解决？（2025年02月更新）
+cover: https://s21.ax1x.com/2025/02/08/pEm3d3T.webp
 tags:
   - ChatGPT
   - AIGC
@@ -60,7 +60,7 @@ ChatGPT 4 需要付费，付费时需要使用 VISA 或者 Master 的卡，还�
 
 ### 2.1 开卡
 
-[https://bewildcard.com/i/CHATGPT6](/htmls/bewildcard001.html) 
+[https://yeka.ai/i/CHATGPT6](/htmls/bewildcard001.html) 
 点击上面链接（使用推荐码 CHATGPT6 有 1美元 的优惠），按照指示完成实名认证，2分钟就可以完成注册，获得一个美国身份和虚拟卡，如下图所示。
 
 [![信用卡信息](https://s11.ax1x.com/2024/01/27/pFnsLge.png)](/htmls/bewildcard001.html)

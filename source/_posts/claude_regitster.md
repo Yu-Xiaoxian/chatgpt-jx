@@ -1,5 +1,5 @@
 ---
-title: 如何注册 Claude？（2025年01月更新）
+title: 如何注册 Claude？（2025年02月更新）
 tags:
   - Claude
   - AIGC

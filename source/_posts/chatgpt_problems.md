@@ -1,6 +1,6 @@
 ---
-title: ChatGPT 无法登陆怎么办？看这一篇就够了（2025年01月更新）
-cover: https://s21.ax1x.com/2024/12/31/pAz7q54.webp
+title: ChatGPT 无法登陆怎么办？看这一篇就够了（2025年02月更新）
+cover: https://s21.ax1x.com/2025/02/08/pEm3aCV.webp
 tags:
   - ChatGPT
   - AIGC
